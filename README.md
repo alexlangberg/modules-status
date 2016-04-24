@@ -2,7 +2,7 @@
 Overview of the statuses of my modules.
 
 ### needle-retry
-[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?maxAge=2592000)](https://github.com/alexlangberg/node-needle-retry)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-needle-retry.svg?maxAge=2592000)](https://github.com/alexlangberg/node-needle-retry)
 [![npm version](http://img.shields.io/npm/v/needle-retry.svg)](https://www.npmjs.org/package/needle-retry)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-needle-retry.svg)](https://travis-ci.org/alexlangberg/node-needle-retry)
 [![Dependency Status](https://david-dm.org/alexlangberg/node-needle-retry.svg)](https://david-dm.org/alexlangberg/node-needle-retry)
