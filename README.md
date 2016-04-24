@@ -2,32 +2,36 @@
 Overview of the statuses of my modules.
 
 ### needle-retry
-[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-needle-retry.svg?maxAge=2592000)](https://github.com/alexlangberg/node-needle-retry)
 [![npm version](http://img.shields.io/npm/v/needle-retry.svg)](https://www.npmjs.org/package/needle-retry)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-needle-retry.svg?maxAge=2592000)](https://github.com/alexlangberg/node-needle-retry)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-needle-retry.svg)](https://travis-ci.org/alexlangberg/node-needle-retry)
 [![Dependency Status](https://david-dm.org/alexlangberg/node-needle-retry.svg)](https://david-dm.org/alexlangberg/node-needle-retry)
 [![devDependency Status](https://david-dm.org/alexlangberg/node-needle-retry/dev-status.svg)](https://david-dm.org/alexlangberg/node-needle-retry#info=devDependencies)
 
 ### node-needle-schedule
 [![npm version](http://img.shields.io/npm/v/needle-schedule.svg)](https://www.npmjs.org/package/needle-schedule)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-needle-schedule.svg?maxAge=2592000)](https://github.com/alexlangberg/node-needle-schedule)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-needle-schedule.svg)](https://travis-ci.org/alexlangberg/node-needle-schedule)
 [![Dependency Status](https://david-dm.org/alexlangberg/node-needle-schedule.svg)](https://david-dm.org/alexlangberg/node-needle-schedule)
 [![devDependency Status](https://david-dm.org/alexlangberg/node-needle-schedule/dev-status.svg)](https://david-dm.org/alexlangberg/node-needle-schedule#info=devDependencies)
 
 ### node-sitesampler
 [![npm version](http://img.shields.io/npm/v/sitesampler.svg)](https://www.npmjs.org/package/sitesampler)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-sitesampler.svg?maxAge=2592000)](https://github.com/alexlangberg/node-sitesampler)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-sitesampler.svg)](https://travis-ci.org/alexlangberg/node-sitesampler)
 [![Dependency Status](https://david-dm.org/alexlangberg/node-sitesampler.svg)](https://david-dm.org/alexlangberg/node-sitesampler)
 [![devDependency Status](https://david-dm.org/alexlangberg/node-sitesampler/dev-status.svg)](https://david-dm.org/alexlangberg/node-sitesampler#info=devDependencies)
 
 ### node-chronostore
 [![npm version](http://img.shields.io/npm/v/chronostore.svg)](https://www.npmjs.org/package/chronostore)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-chronostore.svg?maxAge=2592000)](https://github.com/alexlangberg/node-chronostore)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-chronostore.svg)](https://travis-ci.org/alexlangberg/node-chronostore)
 [![Dependency Status](https://david-dm.org/alexlangberg/node-chronostore.svg)](https://david-dm.org/alexlangberg/node-chronostore)
 [![devDependency Status](https://david-dm.org/alexlangberg/node-chronostore/dev-status.svg)](https://david-dm.org/alexlangberg/node-chronostore#info=devDependencies)
 
 ### node-goldwasher
 [![npm version](http://img.shields.io/npm/v/goldwasher.svg)](https://www.npmjs.org/package/goldwasher)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-goldwasher.svg?maxAge=2592000)](https://github.com/alexlangberg/node-goldwasher)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-goldwasher.svg)](https://travis-ci.org/alexlangberg/node-goldwasher)
 [![Coverage Status](http://img.shields.io/coveralls/alexlangberg/node-goldwasher.svg)](https://coveralls.io/r/alexlangberg/node-goldwasher?branch=master)
 [![Code Climate](http://img.shields.io/codeclimate/github/alexlangberg/node-goldwasher.svg)](https://codeclimate.com/github/alexlangberg/node-goldwasher)
@@ -37,6 +41,7 @@ Overview of the statuses of my modules.
 
 ### node-goldwasher-needle
 [![npm version](http://img.shields.io/npm/v/goldwasher-needle.svg)](https://www.npmjs.org/package/goldwasher-needle)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-goldwasher-needle.svg?maxAge=2592000)](https://github.com/alexlangberg/node-goldwasher-needle)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-goldwasher-needle.svg)](https://travis-ci.org/alexlangberg/node-goldwasher-needle)
 [![Coverage Status](http://img.shields.io/coveralls/alexlangberg/node-goldwasher-needle.svg)](https://coveralls.io/r/alexlangberg/node-goldwasher-needle?branch=master)
 [![Code Climate](http://img.shields.io/codeclimate/github/alexlangberg/node-goldwasher-needle.svg)](https://codeclimate.com/github/alexlangberg/node-goldwasher-needle)
@@ -47,6 +52,7 @@ Overview of the statuses of my modules.
 
 ### node-goldwasher-schedule
 [![npm version](http://img.shields.io/npm/v/goldwasher-schedule.svg)](https://www.npmjs.org/package/goldwasher-schedule)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-goldwasher-schedule.svg?maxAge=2592000)](https://github.com/alexlangberg/node-goldwasher-schedule)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-goldwasher-schedule.svg)](https://travis-ci.org/alexlangberg/node-goldwasher-schedule)
 [![Coverage Status](http://img.shields.io/coveralls/alexlangberg/node-goldwasher-schedule.svg)](https://coveralls.io/r/alexlangberg/node-goldwasher-schedule?branch=master)
 [![Code Climate](http://img.shields.io/codeclimate/github/alexlangberg/node-goldwasher-schedule.svg)](https://codeclimate.com/github/alexlangberg/node-goldwasher-schedule)
@@ -57,6 +63,7 @@ Overview of the statuses of my modules.
 
 ### hapi-goldwasher
 [![npm version](http://img.shields.io/npm/v/hapi-goldwasher.svg)](https://www.npmjs.org/package/hapi-goldwasher)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/hapi-goldwasher.svg?maxAge=2592000)](https://github.com/alexlangberg/hapi-goldwasher)
 [![Build Status](http://img.shields.io/travis/alexlangberg/hapi-goldwasher.svg)](https://travis-ci.org/alexlangberg/hapi-goldwasher)
 [![Coverage Status](http://img.shields.io/coveralls/alexlangberg/hapi-goldwasher.svg)](https://coveralls.io/r/alexlangberg/hapi-goldwasher?branch=master)
 [![Code Climate](http://img.shields.io/codeclimate/github/alexlangberg/hapi-goldwasher.svg)](https://codeclimate.com/github/alexlangberg/hapi-goldwasher)
@@ -66,6 +73,7 @@ Overview of the statuses of my modules.
 
 ### node-goldwasher-aws-lambda
 [![npm version](http://img.shields.io/npm/v/goldwasher-aws-lambda.svg)](https://www.npmjs.org/package/goldwasher-aws-lambda)
+[![GitHub issues](https://img.shields.io/github/issues/alexlangberg/node-goldwasher-aws-lambda.svg?maxAge=2592000)](https://github.com/alexlangberg/node-goldwasher-aws-lambda)
 [![Build Status](http://img.shields.io/travis/alexlangberg/node-goldwasher-aws-lambda.svg)](https://travis-ci.org/alexlangberg/node-goldwasher-aws-lambda)
 [![Coverage Status](http://img.shields.io/coveralls/alexlangberg/node-goldwasher-aws-lambda.svg)](https://coveralls.io/r/alexlangberg/node-goldwasher-aws-lambda?branch=master)
 [![Code Climate](http://img.shields.io/codeclimate/github/alexlangberg/node-goldwasher-aws-lambda.svg)](https://codeclimate.com/github/alexlangberg/node-goldwasher-aws-lambda)
